@@ -53,7 +53,7 @@ In the guide below I detail all the steps I executed in order to complete the pr
     - `Custom TCP 2200`
   6. Ports `22` and `80` should already be listed
 
-  ### SSH into Server
+  #### SSH into Server
   1. You will now use the `.pem` downloaded earlier. Open your **Terminal**
   2. Move the file in the **ssh** folder on your computer:
     `$ mv ~/Downloads/[linux_config].pem ~/.ssh/`
