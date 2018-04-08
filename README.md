@@ -409,7 +409,9 @@ I would sincerely like to the thank the following Alumni whose instructions were
   - [ryanwaite28](https://github.com/ryanwaite28/udacity-nanodegree-fsnd/tree/master/linux-server-configuration)
 
 ## License
-The contents of this repository are covered under the [GNU GENERAL PUBLIC LICENSE](LICENSE.txt).
+The contents of this repository are covered under the [GNU GENERAL PUBLIC LICENSE](LICENSE.txt)
+
+
 [1]: https://github.com/grocer-of-despair/UdacityCatalogProject "UdacityCatalogProject"
 [2]: https://aws.amazon.com/lightsail/ "Amazon LightSail"
 [3]: https://help.ubuntu.com/community/UFW "Uncomplicated FireWall"
